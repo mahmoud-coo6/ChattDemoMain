@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "482468555102",
+    "firebase_url": "https://chattdemomain-ee6db.firebaseio.com",
+    "project_id": "chattdemomain-ee6db",
+    "storage_bucket": "chattdemomain-ee6db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482468555102:android:374b646dc4e383b0",
+        "android_client_info": {
+          "package_name": "com.chatt.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482468555102-7hd9etqu2vkk88adba133plrq97o0g58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chatt.demo",
+            "certificate_hash": "5b91630610d58c6bfadee714f218c221ca34173e"
+          }
+        },
+        {
+          "client_id": "482468555102-6gqocrmulvv62rpuqmrf06120fduf5ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZxsc2XawMzwJ1dPDdLUx35pZTcdHdSkM"
+        },
+        {
+          "current_key": "AIzaSyBAxwzo5GBWPJfc9aaoE3wdQPQrvkgpshU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482468555102-6gqocrmulvv62rpuqmrf06120fduf5ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482468555102:android:7f2e9475c422d6d6",
+        "android_client_info": {
+          "package_name": "com.chatt.demos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482468555102-6gqocrmulvv62rpuqmrf06120fduf5ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZxsc2XawMzwJ1dPDdLUx35pZTcdHdSkM"
+        },
+        {
+          "current_key": "AIzaSyBAxwzo5GBWPJfc9aaoE3wdQPQrvkgpshU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
